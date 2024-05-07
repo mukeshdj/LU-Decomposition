@@ -42,10 +42,10 @@ print(x)
 ```
 
 ## Output:
-'''![image](https://github.com/mukeshdj/LU-Decomposition/assets/155506353/ca0756b7-60cd-4ea3-94d8-ff1b7de70f41)
+![image](https://github.com/mukeshdj/LU-Decomposition/assets/155506353/ca0756b7-60cd-4ea3-94d8-ff1b7de70f41)
 ![image](https://github.com/mukeshdj/LU-Decomposition/assets/155506353/5ea827c0-8843-475a-b7f4-ada9590a95eb)
 ![image](https://github.com/mukeshdj/LU-Decomposition/assets/155506353/2b0cb7ff-e36a-41ad-88dc-8531d253b4d9)
-![image](https://github.com/mukeshdj/LU-Decomposition/assets/155506353/5046c196-ab88-49ce-a84b-8abd89e0b1d7)'''
+![image](https://github.com/mukeshdj/LU-Decomposition/assets/155506353/5046c196-ab88-49ce-a84b-8abd89e0b1d7)
 
 
 
